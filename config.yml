@@ -1,0 +1,19 @@
+owner:
+    - '15555555555'
+camera:
+    relayNumber: 1
+    relayAddress: 0
+    cameraIP: 192.168.0.2
+    user: user
+    password: password
+    port: 80
+    channel: 1
+    subtype: 0
+    maxBytes: 0
+gate:
+    relayNumber: 0
+    relayAddress: 0
+    detectionPin: 24
+motion:
+    pin: 23
+    delay: 300
